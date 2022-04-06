@@ -2,9 +2,9 @@
     <string name="app_name">AtividadeAD_etec</string>
     <string name="slogan">SOLOGAN HERE</string>
     <string name="lorem_ipsum_dolor_sit_amet_sed_doloremque_consectetur_a_fuga_dolores_in_voluptatem_unde_qui_atque_aperiam_non_ipsam_ratione_aut_maiores_animi_33_magnam">Lorem ipsum dolor sit amet, consectetur a fuga dolores in voluptatem unde qui atque aperiam non ipsam ratione aut maiores animi 33 magnam.</string>
-    <string name="sing_in">Sing in</string>
+    <string name="sing_in">Sign in</string>
     <string name="welcome_back">Welcome Back</string>
     <string name="company_name">COMPANY NAME</string>
-    <string name="sing_up">Sing up</string>
+    <string name="sing_up">Sign up</string>
 
 </resources>
