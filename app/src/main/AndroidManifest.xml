@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AtividadeAD_etec">
         <activity
+            android:name=".Cadastro"
+            android:exported="false" />
+        <activity
+            android:name=".Entrar"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

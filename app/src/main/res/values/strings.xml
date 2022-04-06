@@ -6,5 +6,13 @@
     <string name="welcome_back">Welcome Back</string>
     <string name="company_name">COMPANY NAME</string>
     <string name="sing_up">Sign up</string>
+    <string name="user">User Name</string>
+    <string name="password">Password</string>
+    <string name="remenber_password">Remenber Password</string>
+    <string name="sing_with_social_media">Sing with Social Media</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="allow_term_conditions"><![CDATA[Allow term & Conditions]]></string>
+    <string name="already_have_an_account">Already have an account?</string>
 
 </resources>
